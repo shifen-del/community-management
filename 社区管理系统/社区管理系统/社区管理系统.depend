@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608282791 source:c:\code\社区管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608466714 source:d:\程序设计基础\社区管理系统\社区管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
